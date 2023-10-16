@@ -1,24 +1,28 @@
+=======
+# Monty-Hall
+Projeto Monty Hall - Jogo de Portas e Probabilidades  Este é um projeto divertido e educacional baseado no famoso problema Monty Hall, inspirado no popular programa de televisão "Let's Make a Deal." O projeto é implementado com as tecnologias JavaScript, Next.js e React, oferecendo uma experiência interativa e envolvente.
 
-# Projeto Monty Hall
+Recursos:
 
-### Descrição
-Este é meu primeiro projeto utilizando o framework Next.js. Também usei ferramentas como TypeScript, Styled Components e React.
+    Simulação do Jogo Monty Hall: Os usuários podem jogar uma simulação interativa do jogo Monty Hall, tomando decisões e explorando as implicações das escolhas.
 
-É baseado no **Paradoxo de Monty Hall** (Se você nunca viu, recomendo pesquisar sobre para se situar do contexto).
+    Gráficos e Estatísticas: O projeto inclui gráficos e estatísticas para visualizar as probabilidades e os resultados do jogo ao longo do tempo.
 
-### Como funciona?
+    Educativo e Divertido: Além de proporcionar diversão, o projeto serve como uma ferramenta educativa para ajudar os usuários a compreender conceitos de probabilidade e tomada de decisão.
 
-#### Na Página Inicial
- - Você deve escolher o número de portas que será criada
- - Escolha a porta que será premiada ou marque a caixa **Aleatório?** para escolher uma porta aleatória
- - Assim que terminar de configurar, clique em Iniciar para começar o jogo
- 
-#### Na página do Jogo
- - Você deverá abrir as portas (clique na maçaneta) até encontrar a porta premiada
- - Assim que achar a porta premiada, o jogo encerrará
- - Ao clicar no botão **Resetar**, o jogo irá recomeçar e a porta premiada será redefinida para um valor aleatório
- - Ao clicar no botão **Home**, você voltará à página inicial
+Tecnologias Utilizadas:
 
-### Projeto
+    JavaScript: O projeto é construído principalmente em JavaScript, aproveitando sua versatilidade e poder.
 
-Acesse [Projeto Monty Hall](https://monty-hall-project.netlify.app/) para ver como ficou!
+    Next.js: Utilizamos o Next.js para criar uma aplicação React rápida e eficiente, com roteamento simplificado e renderização no lado do servidor.
+
+    React: React é a base da interface do usuário, oferecendo componentes reutilizáveis e uma experiência de usuário fluida.
+
+Instruções para Executar o Projeto:
+
+    Clone este repositório.
+    Instale as dependências com npm install.
+    Inicie o projeto com npm run dev.
+
+Divirta-se jogando, aprendendo e explorando o emocionante mundo das probabilidades com o Projeto Monty Hall! (:
+>>>>>>> b42558a19682fd497cbd930e16cdf04cac6b5878
