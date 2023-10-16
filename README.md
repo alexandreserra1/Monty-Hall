@@ -1,4 +1,4 @@
-=======
+
 # Monty-Hall
 Projeto Monty Hall - Jogo de Portas e Probabilidades  Este é um projeto divertido e educacional baseado no famoso problema Monty Hall, inspirado no popular programa de televisão "Let's Make a Deal." O projeto é implementado com as tecnologias JavaScript, Next.js e React, oferecendo uma experiência interativa e envolvente.
 
@@ -25,4 +25,4 @@ Instruções para Executar o Projeto:
     Inicie o projeto com npm run dev.
 
 Divirta-se jogando, aprendendo e explorando o emocionante mundo das probabilidades com o Projeto Monty Hall! (:
->>>>>>> b42558a19682fd497cbd930e16cdf04cac6b5878
+
